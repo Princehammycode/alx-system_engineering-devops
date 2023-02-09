@@ -7,3 +7,4 @@
 6-firstdirectory create a new directory in /tmp/
 7-movethatfile contain script to move a file to another directory
 8-firstdelete Removing file froom directory
+Deleting Directory
