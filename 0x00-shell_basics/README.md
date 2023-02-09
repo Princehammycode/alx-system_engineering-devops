@@ -14,3 +14,4 @@ Deleting Directory
 13-symbolic_link creates a symbolic file
 14-copy_html list html files
 100-lets_move moves file using wildcard
+101-clean_emacs cleans ~emacs file
