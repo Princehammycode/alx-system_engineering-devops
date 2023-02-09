@@ -13,3 +13,4 @@ Deleting Directory
 12-file_type prints file type
 13-symbolic_link creates a symbolic file
 14-copy_html list html files
+100-lets_move moves file using wildcard
