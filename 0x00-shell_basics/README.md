@@ -10,3 +10,4 @@
 Deleting Directory
 10-back Changes to previous directory
 11-lists list parent and previous directory items
+12-file_type prints file type
