@@ -17,3 +17,4 @@ Deleting Directory
 101-clean_emacs cleans ~emacs file
 102-tree creates a tree directory
 103-commas list files and directory seperated with comma
+school.mgc is a magic file
